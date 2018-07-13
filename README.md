@@ -54,9 +54,21 @@ img_caption/user_uploaded
 ```
 * Boom! You should have see some good stuff!
 
-### 4. Model we use
+### 4. Model Applied
 ![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/images/encoder-decoder.png)
-### 5. Group Member
+Our models is in:
+```
+img_caption\models\legit_model
+```
+(PS: Dont ask how many times failed in training and just take a look to see the jupyter notebook log - ```img_caption\2_Training.ipynb```)
+
+
+### 5. Jupyter Notebook Workflow
+* Vocab generation -- ```img_caption\1_Preliminaries.ipynb```
+* Training -- ```img_caption\2_Training.ipynb```
+* Demo -- ```img_caption\3_Demo.ipynb```
+
+### 6. Group Member
 
 ```
 1001603 ZHOU XUEXUAN
