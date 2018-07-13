@@ -65,7 +65,7 @@ img_caption\models\legit_model
 
 ### 5. Jupyter Notebook Workflow
 * Vocab generation -- ```img_caption\1_Preliminaries.ipynb```
-* Training -- ```img_caption\2_Training.ipynb```
+* Training (with Val BLEU score at the bottom of the notebook) -- ```img_caption\2_Training.ipynb```
 * Demo -- ```img_caption\3_Demo.ipynb```
 
 ### 6. Group Member
