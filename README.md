@@ -68,7 +68,10 @@ img_caption\models\legit_model
 * Training (with Val BLEU score at the bottom of the notebook) -- ```img_caption\2_Training.ipynb```
 * Demo -- ```img_caption\3_Demo.ipynb```
 
-### 6. Group Member
+### 6. Legit and Funny Outputs
+
+
+### 7. Group Member
 
 ```
 1001603 ZHOU XUEXUAN
