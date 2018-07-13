@@ -69,6 +69,22 @@ img_caption\models\legit_model
 * Demo -- ```img_caption\3_Demo.ipynb```
 
 ### 6. Legit and Funny Outputs
+* Perfect captioning:
+
+![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/out_result/Plane_legit.png)
+![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/out_result/Tennis_legit.png)
+
+* Weird sentence format or not fully captioning
+
+![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/out_result/Dog_legit.png)
+![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/out_result/Moto_partial.png)
+
+* These are some really funny outcome
+
+![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/out_result/Taxi_bad.png)
+![alt text](https://github.com/Joe627487136/img_caption_project/blob/master/img_caption/out_result/Bear_bad.png)
+
+(PS: I can be a giraffe as well!!!)
 
 
 ### 7. Group Member
