@@ -60,7 +60,7 @@ Our models is in:
 ```
 img_caption\models\legit_model
 ```
-(PS: Dont ask how many times failed in training and just take a look to see the jupyter notebook log - ```img_caption\2_Training.ipynb```)
+(PS: Dont ask how many times failed in training and just take a look in the jupyter notebook log - ```img_caption\2_Training.ipynb```)
 
 
 ### 5. Jupyter Notebook Workflow
