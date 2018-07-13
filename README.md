@@ -3,12 +3,12 @@
 # Instructions
 ### 1. Please ensure you install coco api
 ```
-git clone https://github.com/cocodataset/cocoapi.git
-```
-```
 cd cocoapi/PythonAPI
 make
-cd ..
+```
+or 
+```
+python setup.py install
 ```
 ### 2. Make sure your cocoapi folder in following tree struct (images/ at least with train and val)
 ```
